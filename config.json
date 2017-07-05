@@ -1,0 +1,16 @@
+{
+  "name": "Soundtouch",
+  "description": "Displays the playing music",
+  "elementName": "marcel-plugin-soundtouch",
+  "files": [
+    "index.html"
+  ],
+  "props": [
+    {
+      "name": "url",
+      "description": "Complete URL from where the XML have to be fetched",
+      "type": "String",
+      "defaultValue": ""
+    }
+  ]
+}
